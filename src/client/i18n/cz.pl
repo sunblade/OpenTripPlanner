@@ -23,138 +23,138 @@ msgstr ""
 #. Options widgets)
 #: src/client/js/otp/config.js:278
 msgid "Transit"
-msgstr "komunikacją publiczną"
+msgstr "Veřejná doprava"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:281
 msgid "Bus Only"
-msgstr "wyłącznie autobusami"
+msgstr "Pouze autobusy"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:284
 msgid "Rail Only"
-msgstr "wyłącznie koleją"
+msgstr "Pouze vlaky"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:287
 msgid "Bicycle Only"
-msgstr "wyłącznie rowerem"
+msgstr "Pouze na kole"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:290
 msgid "Bicycle &amp; Transit"
-msgstr "rowerem & komunikacją publiczną"
+msgstr "Na kole a veřejná doprava"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:293
 msgid "Walk Only"
-msgstr "wyłącznie pieszo"
+msgstr "Pouze pěšky"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:296
 msgid "Drive Only"
-msgstr "wyłącznie osobistym pojazdem"
+msgstr "Pouze osobním autem"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:299
 msgid "Park and Ride"
-msgstr "schemat P+R (Park and Ride)"
+msgstr "Park and Ride"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets) http://en.wikipedia.org/wiki/Park_and_ride#Kiss_and_ride
 #: src/client/js/otp/config.js:302
 msgid "Kiss and Ride"
-msgstr "schemat K+R (Kiss and Ride)"
+msgstr parkování na okraji města (při stanici)
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets) (Park bicycle at Public transit station and take a
 #. transit
 #: src/client/js/otp/config.js:306
 msgid "Bike and Ride"
-msgstr "schemat B+R (Bike and Ride)"
+msgstr "Schemat B+R (Bike and Ride)"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:313
 msgid "Rented Bicycle"
-msgstr "wypożyczonym rowerem"
+msgstr "Vypůjčeným kolem"
 
 #. Travel by: mode of transport (Used in selection in Travel
 #. Options widgets)
 #: src/client/js/otp/config.js:316
 msgid "Transit & Rented Bicycle"
-msgstr "kom. publiczną & wypoż. rowerem"
+msgstr "Veřejná doprava a vypůjčeným kolem"
 
 #. Context menu
 #: src/client/js/otp/core/MapContextMenu.js:36
 msgid "Recenter Map Here"
-msgstr "Wyśrodkuj mapę w tym miejscu"
+msgstr "Vycentrovat mapu odtud"
 
 #. Context menu
 #: src/client/js/otp/core/MapContextMenu.js:39
 msgid "Zoom In"
-msgstr "Przybliż"
+msgstr "Přiblížit"
 
 #. Context menu
 #: src/client/js/otp/core/MapContextMenu.js:42
 msgid "Zoom Out"
-msgstr "Oddal"
+msgstr "Oddálit"
 
 #: src/client/js/otp/core/WidgetManagerMenu.js:34
 msgid "Minimize all"
-msgstr "Minimalizuj wszystko"
+msgstr "Zmenšit vše"
 
 #: src/client/js/otp/core/WidgetManagerMenu.js:42
 msgid "Unminimize all"
-msgstr "Maskymalizuj wszystko"
+msgstr "Zvětšit vše"
 
 #. widget title
 #: src/client/js/otp/layers/StopsLayer.js:70
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:557
 #: src/client/js/otp/widgets/transit/StopViewerWidget.js:31
 msgid "Stop Viewer"
-msgstr "Zatrzymaj podgląd"
+msgstr "Ukázat zastávky"
 
 #. Plan Trip [From Stop| To Stop] Used in stoplayer popup
 #: src/client/js/otp/layers/StopsLayer.js:72
 msgid "Plan Trip"
-msgstr "Zaplanuj podróż"
+msgstr "Naplánovat trasu"
 
 #. Plan Trip [From Stop| To Stop] Used in stoplayer popup
 #: src/client/js/otp/layers/StopsLayer.js:74
 msgid "From Stop"
-msgstr "Z przystanku"
+msgstr "Od zastávky"
 
 #. Plan Trip [From Stop| To Stop] Used in stoplayer popup
 #: src/client/js/otp/layers/StopsLayer.js:76
 msgid "To Stop"
-msgstr "Do przystanku"
+msgstr "Do zastávky"
 
 #: src/client/js/otp/layers/StopsLayer.js:77
 msgid "Routes Serving Stop"
-msgstr "Trasy obsługujące dany przystanek"
+msgstr "Linky navazující na trasu"
 
 #. Legend title in Analyst
 #: src/client/js/otp/modules/analyst/AnalystLegendWidget.js:26
 msgid "Legend : travel time in minutes"
-msgstr "Legenda : czas podróży (w minutach)"
+msgstr "Legenda : čas cesty (v minutách)"
 
 #. module name
 #: src/client/js/otp/modules/analyst/AnalystModule.js:22
 msgid "Analyst"
-msgstr "Tryb Analizy"
+msgstr "Analýza"
 
 #. Button to update analyst information
 #: src/client/js/otp/modules/analyst/AnalystModule.js:65
 msgid "Refresh"
-msgstr "Odśwież"
+msgstr "Obnovení"
 
 #. Context menu set this point as analysis location
 #: src/client/js/otp/modules/analyst/AnalystModule.js:94
