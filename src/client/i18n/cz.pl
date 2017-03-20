@@ -159,50 +159,50 @@ msgstr "Obnovení"
 #. Context menu set this point as analysis location
 #: src/client/js/otp/modules/analyst/AnalystModule.js:94
 msgid "Set as Analysis Location"
-msgstr "Ustaw pozycję do analizy"
+msgstr "Nastav pozici analýzy"
 
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:69
 msgid "Bike Share Planner"
-msgstr "Planner wypożyczenia roweru"
+msgstr "Plánování vypůjčení kola"
 
 #. widget name
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:110
 #: src/client/js/otp/modules/multimodal/MultimodalPlannerModule.js:44
 msgid "Trip Options"
-msgstr "Trasa"
+msgstr "Nastavení trasy"
 
 #. Popup title station from where bike is picked
 #. up
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:209
 msgid "PICK UP BIKE"
-msgstr "WYPOŻYCZ ROWER"
+msgstr "VYPŮJČ SI KOLO"
 
 #. Popup title alternative station to pickup bike on bike
 #. sharing
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:218
 msgid "ALTERNATE PICKUP"
-msgstr "ALTERNATYWNY PUNKT WYPOŻYCZENIA"
+msgstr "Alternativní místo vypůjčení"
 
 #. Popup title
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:223
 msgid "DROP OFF BIKE"
-msgstr "ODDAJ ROWER"
+msgstr "MÍSTO VRÁCENÍ KOLA"
 
 #. Popup title
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:231
 msgid "ALTERNATE DROP OFF"
-msgstr "ALTERNATYWNY PUNKT ODDANIA ROWERU"
+msgstr "ALTERNATIVNÍ MÍSTO VRÁCENÍ KOLA"
 
 #. Popup title Bike sharing station
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:236
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:315
 msgid "BIKE STATION"
-msgstr "STACJA ROWEROWA"
+msgstr "PŮJČOVNA KOL"
 
 #. Bike sharing station: station name
 #: src/client/js/otp/modules/bikeshare/BikeShareModule.js:320
 msgid "Station:"
-msgstr "Stacja:"
+msgstr "Půjčovna:"
 
 #. number of bikes
 #. availible in a bike sharing
@@ -213,9 +213,9 @@ msgstr "Stacja:"
 #, python-format
 msgid "<strong>%d</strong> bike available"
 msgid_plural "<strong>%d</strong> bikes available"
-msgstr[0] "<strong>%d</strong> dostępny rower"
-msgstr[1] "<strong>%d</strong> dostępne rowery"
-msgstr[2] "<strong>%d</strong> dostępnych rowerów"
+msgstr[0] "<strong>%d</strong> dostupné kolo"
+msgstr[1] "<strong>%d</strong> dostupná kola"
+msgstr[2] "<strong>%d</strong> dostupných kol"
 
 #. number of free
 #. places to put bikes
@@ -227,28 +227,28 @@ msgstr[2] "<strong>%d</strong> dostępnych rowerów"
 #, python-format
 msgid "<strong>%d</strong> dock available"
 msgid_plural "<strong>%d</strong> docks available"
-msgstr[0] "<strong>%d</strong> dostępna stacja"
-msgstr[1] "<strong>%d</strong> dostępne stacje"
-msgstr[2] "<strong>%d</strong> dostępnych stacji"
+msgstr[0] "<strong>%d</strong> dostupná půjčovna"
+msgstr[1] "<strong>%d</strong> dostupné půjčovny"
+msgstr[2] "<strong>%d</strong> dostupných půjčoven"
 
 #. Recommended Pick Up: bike sharing
 #. station name
 #: src/client/js/otp/modules/bikeshare/BikeStationsWidget.js:53
 #: src/client/js/otp/modules/bikeshare/BikeStationsWidget.js:68
 msgid "Recommended Pick Up:"
-msgstr "Rekomendowane miejsce wypożyczenia roweru:"
+msgstr "Doporučená půjčovna kol:"
 
 #. Recommended Drop Off: bike sharing
 #. station name
 #: src/client/js/otp/modules/bikeshare/BikeStationsWidget.js:60
 #: src/client/js/otp/modules/bikeshare/BikeStationsWidget.js:70
 msgid "Recommended Drop Off:"
-msgstr "Rekomendowane miejsce oddania roweru:"
+msgstr "Doporučené místo vrácení kol:"
 
 #. module name
 #: src/client/js/otp/modules/multimodal/MultimodalPlannerModule.js:22
 msgid "Multimodal Trip Planner"
-msgstr "Planner Podróży"
+msgstr "Plánování cesty"
 
 #. Widget title
 #: src/client/js/otp/modules/multimodal/MultimodalPlannerModule.js:132
@@ -261,62 +261,62 @@ msgstr "Trasy"
 #, python-format
 msgid "%d Itinerary Returned"
 msgid_plural "%d Itineraries Returned"
-msgstr[0] "%d zwrócona trasa"
-msgstr[1] "%d zwrócone trasy"
-msgstr[2] "%d zwróconych tras"
+msgstr[0] "%d vrácená trasa"
+msgstr[1] "%d vrácené trasy"
+msgstr[2] "%d vracených tras"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:112
 msgid "Link to search"
-msgstr "Link do wyszukiwania"
+msgstr "Odkaz do vyhledávání"
 
 #. button to first itinerary
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:171
 msgid "First"
-msgstr "Pierwsza"
+msgstr "První"
 
 #. button to previous itinerary
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:186
 msgid "Previous"
-msgstr "Poprzednia"
+msgstr "Předchozí"
 
 #. button to next itinerary
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:202
 msgid "Next"
-msgstr "Następna"
+msgstr "Další"
 
 #. button to last itinerary
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:218
 msgid "Last"
-msgstr "Ostatnia"
+msgstr "Poslední"
 
 #. Used when passengers can stay on vehicle. Continues
 #. as [agency] route name
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:346
 msgid "CONTINUES AS"
-msgstr "POZOSTAŃ"
+msgstr "ZŮSTAŇ"
 
 #. Something in Public transport is x minutes late
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:354
 #, python-format
 msgid "%d min late"
 msgid_plural "%d mins late"
-msgstr[0] "%d minuta opóźnienia"
-msgstr[1] "%d minuty opóźnienia"
-msgstr[2] "%d minut opóźnienia"
+msgstr[0] "%d minuta zpoždění"
+msgstr[1] "%d minuty zpoždění"
+msgstr[2] "%d minut zpoždění"
 
 #. Something in Public transport is x minutes early
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:357
 #, python-format
 msgid "%d min early"
 msgid_plural "%d mins early"
-msgstr[0] "%d minuta przed czasem"
-msgstr[1] "%d minuty przed czasem"
-msgstr[2] "%d minut przed czasem"
+msgstr[0] "%d minuta dříve"
+msgstr[1] "%d minuty dříve"
+msgstr[2] "%d minut dříve"
 
 #. Something in Public transport is on time
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:360
 msgid "on time"
-msgstr "na czas"
+msgstr "na čas"
 
 #. [distance] to [name of destination]
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:365
@@ -324,7 +324,7 @@ msgstr "na czas"
 #: src/client/js/otp/modules/planner/Itinerary.js:336
 msgctxt "direction"
 msgid " to "
-msgstr "w kierunku"
+msgstr "směrem"
 
 #. used in sentence like: <Long name of public transport route> "to" <Public
 #. transport
@@ -335,13 +335,13 @@ msgstr "w kierunku"
 #: src/client/js/otp/widgets/transit/StopViewerWidget.js:127
 msgctxt "bus_direction"
 msgid " to "
-msgstr "w kierunku"
+msgstr "ve směru"
 
 #. Shown as alert text before showing itinerary.
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:433
 msgid "Total walk distance for this trip exceeds specified maximum"
 msgstr ""
-"Wyliczona długość trasy do pokonania pieszo przekracza zdefiniowane limity"
+"Vypočítaná délka pěší trasy překračuje zadané limity"
 
 #. Start: Time and date (Shown before path itinerary)
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:442
@@ -354,78 +354,78 @@ msgstr "Start"
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:445
 #: src/client/js/otp/widgets/tripoptions/TripOptionsWidget.js:185
 msgid "End"
-msgstr "Koniec"
+msgstr "Konec"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:450
 #: src/client/js/otp/modules/planner/Itinerary.js:299
 msgid "Trip Summary"
-msgstr "Podsumowanie podróży"
+msgstr "Souhrn údajů plánované trasy "
 
 #. Travel: hour date on which this trip is made
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:452
 #: src/client/js/otp/modules/planner/Itinerary.js:300
 msgid "Travel"
-msgstr "Podróż"
+msgstr "Cesta"
 
 #. Time: minutes How long is this trip
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:454
 #: src/client/js/otp/modules/planner/Itinerary.js:301
 msgid "Time"
-msgstr "Czas trwania podróży"
+msgstr "Délka trasy "
 
 #. Total foot distance for trip
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:462
 #: src/client/js/otp/modules/planner/Itinerary.js:305
 msgid "Total Walk"
-msgstr "Długość trasy do pokonania pieszo"
+msgstr "Pěší celkem"
 
 #. Total distance on a bike for this trip
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:469
 msgid "Total Bike"
-msgstr "Długośc trasy do pokonania rowerem"
+msgstr "Kolo celkem"
 
 #. how many public transit transfers in a trip
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:475
 #: src/client/js/otp/modules/planner/Itinerary.js:303
 msgid "Transfers"
-msgstr "Przesiadki"
+msgstr "Přestupy"
 
 #. cost of trip
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:481
 #: src/client/js/otp/modules/planner/Itinerary.js:308
 msgid "Fare"
-msgstr "Koszt"
+msgstr "Cena"
 
 #. Valid date time; When is this trip correct
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:489
 msgid "Valid"
-msgstr "Aktualna"
+msgstr "Platná"
 
 #. Links to this itinerary
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:494
 msgid "Link to Itinerary"
-msgstr "Link do trasy"
+msgstr "Odkaz na trasu"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:499
 msgid "Print"
-msgstr "Drukuj"
+msgstr "Tisk"
 
 #. Default subject when sending trip to email
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:509
 msgid "Your Trip"
-msgstr "Zaplanowana podróż"
+msgstr "Plán cesty"
 
 #. Link to send trip by email
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:512
 msgid "Email"
-msgstr "Adres e-mail"
+msgstr "E-mail"
 
 #. public transport drives every N minutes
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:532
 #, python-format
 msgid "every %d min"
 msgid_plural "every %d mins"
-msgstr[0] "co %d minutę"
+msgstr[0] "co %d minutu"
 msgstr[1] "co %d minuty"
 msgstr[2] "co %d minut"
 
@@ -433,37 +433,37 @@ msgstr[2] "co %d minut"
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:538
 msgctxt "itinerary"
 msgid "Depart"
-msgstr "Wyjazd ze stacji"
+msgstr "Čas odjezdu"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:538
 msgid "<b>Board</b> at "
-msgstr "<b>Wyjazd</b> o"
+msgstr "<b>Odjezd</b> v"
 
 #. Public transport <Stop> (stop name)
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:557
 #: src/client/js/otp/widgets/transit/StopViewerWidget.js:92
 msgid "Stop"
-msgstr "Przystanek"
+msgstr "Zastávka"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:577
 #: src/client/js/otp/modules/planner/Itinerary.js:262
 #: src/client/js/otp/modules/planner/Itinerary.js:345
 msgid "Time in transit"
-msgstr "Czas spędzony w komunikacji publicznej"
+msgstr "Celkový čas"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:579
 #: src/client/js/otp/widgets/transit/TripViewerWidget.js:35
 msgid "Trip Viewer"
-msgstr "Podgląd podróży"
+msgstr "Dráha spoje"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:637
 msgid "late as"
-msgstr "dopiero jak"
+msgstr "další spoj"
 
 #. Stay on board/Alight [at stop name]
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:643
 msgid "Stay on board"
-msgstr "Kontynuuj podróż"
+msgstr "Zůstaň na palubě"
 
 #. Alight Public transit route name (agency name
 #. Stop ID ) end time
@@ -471,12 +471,12 @@ msgstr "Kontynuuj podróż"
 #: src/client/js/otp/modules/planner/Itinerary.js:265
 #: src/client/js/otp/modules/planner/Itinerary.js:348
 msgid "Alight"
-msgstr "Wysiądź"
+msgstr "Vystup"
 
 #. [Stay on board/Alight] at [stop name]
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:645
 msgid "at"
-msgstr "na przystanku"
+msgstr "na zastávce"
 
 #. Fare Currency Fare price
 #: src/client/js/otp/modules/planner/Itinerary.js:102
@@ -490,14 +490,14 @@ msgstr "%(currency)s %(price)s"
 #: src/client/js/otp/modules/planner/Itinerary.js:322
 #, python-format
 msgid "Start: %(location)s at %(time_date)s"
-msgstr "Początek: %(location)s o %(time_date)s"
+msgstr "Začátek: %(location)s v %(time_date)s"
 
 #. Board Public transit route name (agency name
 #. Stop ID ) start time
 #: src/client/js/otp/modules/planner/Itinerary.js:261
 #: src/client/js/otp/modules/planner/Itinerary.js:344
 msgid "Board"
-msgstr "Wyjazd"
+msgstr "Nástup"
 
 #: src/client/js/otp/modules/planner/Itinerary.js:261
 #: src/client/js/otp/modules/planner/Itinerary.js:265
@@ -505,7 +505,7 @@ msgstr "Wyjazd"
 #: src/client/js/otp/modules/planner/Itinerary.js:348
 #, python-format
 msgid "(%(agency_id)s Stop ID #%(stop_id)s),"
-msgstr "(%(agency_id)s ID przystanku #%(stop_id)s),"
+msgstr "(%(agency_id)s ID zastávky #%(stop_id)s),"
 
 #. End: location at [time date] (Used in print itinerary
 #. when do you come at a destination)
@@ -513,7 +513,7 @@ msgstr "(%(agency_id)s ID przystanku #%(stop_id)s),"
 #: src/client/js/otp/modules/planner/Itinerary.js:366
 #, python-format
 msgid "End: %(location)s at %(time_date)s"
-msgstr "Koniec: %(location)s o %(time_date)s"
+msgstr "Konec: %(location)s v %(time_date)s"
 
 #. text at end of email %s is link to this itinerary
 #: src/client/js/otp/modules/planner/Itinerary.js:370
@@ -524,7 +524,7 @@ msgid ""
 "%(itinerary_link)s\n"
 msgstr ""
 "\n"
-"Wyświetl trasę w trybie online:\n"
+"Zobrazit trasu online:\n"
 "%(itinerary_link)s\n"
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:98
@@ -533,16 +533,16 @@ msgid ""
 "We're sorry. The trip planner is temporarily unavailable. Please try again "
 "later."
 msgstr ""
-"Przepraszamy. Planer podróży jest obecnie niedostępny. Prosimy o ponowienie "
-"próby w późniejszym czasie."
+"Omlouváme se. Plánování cesty je dočasně nedostupné. Prosíme obnovit "
+"pokus později."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:100
 msgid ""
 "Trip is not possible.  You might be trying to plan a trip outside the map "
 "data boundary."
 msgstr ""
-"Podróż do wyznaczonego miejsca nie jest możliwa. Istnieje "
-"prawdopodobieństwo, iż planowana trasa wykracza poza obszar aktualnej mapy."
+"Není možné naplánovat trasu. Je pravděpodobné, "
+"že plánovaná trasa překračuje akutální obsah mapy."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:101
 msgid ""
@@ -550,43 +550,41 @@ msgid ""
 "accessible (for instance), you might be starting on a residential street "
 "connected only to a highway)."
 msgstr ""
-"Podróż do wyznaczonego miejsca nie jest możliwa. Wybrane punkty startowe "
-"bądź docelowe mogą znajdować się w trudno dostępnych miejscach (przykładowo, "
-"na drodze osiedlowej połączonej wyłącznie z autostradą). "
-
+"Není možné naplánovat trasu. Zvolené počáteční/koncové body "
+"se můžou nacházet v těžce dostupných místech."
 #: src/client/js/otp/modules/planner/PlannerModule.js:102
 msgid ""
 "No transit times available. The date may be past or too far in the future or "
 "there may not be transit service for your trip at the time you chose."
 msgstr ""
-"Brak informacji o rozkładzie komunikacji publicznej. Obowiązujące dane mogą "
-"być nieaktualne, bądź niekompatybilne w wybranym czasie z zaplanowaną trasą."
+"Chybí informace o jízdním řádě. Uvedené data můžou být neaktuální. "
+
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:103
 msgid ""
 "The trip planner is taking way too long to process your request. Please try "
 "again later."
 msgstr ""
-"Planer podróży nie jest w stanie przetwożyć powierzonego mu zadania. Prosimy "
-"o ponowienie próby w późniejszym czasie."
+"Vypršel čas na plánování trasy . Prosíme "
+"zkusit naplánovat trasu později."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:104
 msgid ""
 "The request has errors that the server is not willing or able to process."
 msgstr ""
-"Wybrane zapytanie posiada błędy, których serwer nie jest w stanie obsłużyć."
+"Zvolené údaje obsahují chyby, které server nemůže zpracovat."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:105
 msgid "Origin is unknown. Can you be a bit more descriptive?"
 msgstr ""
-"Wystąpił problem z określeniem lokalizacji startowej. Czy mógłbyś "
-"sprecyzować zapytanie?"
+"Počáteční lokalizace neznámá. Prosím, upřesnit údaje. "
+
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:106
 msgid "Destination is unknown.  Can you be a bit more descriptive?"
 msgstr ""
-"Wystąpił problem z określeniem lokalizacji końcowej. Czy mógłbyś sprecyzować "
-"zapytanie?"
+"Koncová lokalizace neznámá. Prosím, upřesnit údaje. "
+
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:107
 msgid ""
