@@ -20,6 +20,7 @@ otp.config = {
         'en': otp.locale.English,
         'de': otp.locale.German,
         'pl': otp.locale.Polish,
+	'cz': otp.locale.Czech,
         'sl': otp.locale.Slovenian,
         'fr': otp.locale.French,
         'it': otp.locale.Italian,
